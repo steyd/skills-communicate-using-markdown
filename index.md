@@ -13,3 +13,7 @@ var x = True;
 ``` python
 cadena = list(x)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
